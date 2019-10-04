@@ -1,0 +1,5 @@
+System.FormatException: Входная строка имела неверный формат.
+   в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в osu.Graphics.Skinning.SkinOsu.#=zvu6vQnc=()
+   в osu.Graphics.Skinning.Skin.#=zAFSPdcs=(String #=zf$so2xo=)
+   в #=zHOxLA$h_YtL$594yKIqQdJIHc_$LVlGY8g==.#=zVxj8fFQx2R_T4IGnuQ==(String #=zQGI5U1H9sTR3)
